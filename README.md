@@ -37,9 +37,18 @@ License
 This code is provided under an open-source license. Please refer to the license file for more details.
 
 # Author
+
 Nihar Kanungo
+
 Manjunath Yellipeta
 
-#Contact
-For any questions or inquiries, please contact nihar.kanungo@gmail.com or yelipeta.manjunath@gmail.com
+# Contact
+
+For any questions or inquiries, please contact 
+
+nihar.kanungo@gmail.com 
+
+or 
+
+yelipeta.manjunath@gmail.com
 
