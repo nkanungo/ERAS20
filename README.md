@@ -30,6 +30,17 @@ generate_styles_with_custom_loss: This method generates images with custom loss 
 generate_final_image Function
 This function takes an image (im1) and an input prompt (in_prompt) and generates images in different styles based on the input prompt. It also aligns the generated images with the reference image (im1).
 
+
+# Sample Images
+
+Without Loss Function
+
+![](images/ss1.JPG)
+
+
+With Loss Function
+![](images/ss2.JPG)
+
 # Acknowledgments
 This code uses libraries and models provided by Hugging Face, and other open-source contributors.
 Thanks to the developers and contributors of the libraries and models used in this application for their hard work and dedication to the open-source community.
