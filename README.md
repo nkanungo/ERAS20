@@ -35,11 +35,11 @@ This function takes an image (im1) and an input prompt (in_prompt) and generates
 
 Without Loss Function
 
-![](/images/ss1.JPG)
+![]('/images/ss1.JPG')
 
 
 With Loss Function
-![](/images/ss2.JPG)
+![]('images/ss2.JPG')
 
 # Acknowledgments
 This code uses libraries and models provided by Hugging Face, and other open-source contributors.
