@@ -41,6 +41,11 @@ Without Loss Function
 With Loss Function
 ![Image Alt Text](images/ss2.jpg)
 
+
+# App Link
+
+https://huggingface.co/spaces/nkanungo/stable_diffusion_experiment
+
 # Acknowledgments
 This code uses libraries and models provided by Hugging Face, and other open-source contributors.
 Thanks to the developers and contributors of the libraries and models used in this application for their hard work and dedication to the open-source community.
