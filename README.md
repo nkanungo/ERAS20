@@ -39,7 +39,7 @@ Without Loss Function
 
 
 With Loss Function
-![](images/ss2.jpg)
+![]('images/ss2.jpg')
 
 # Acknowledgments
 This code uses libraries and models provided by Hugging Face, and other open-source contributors.
